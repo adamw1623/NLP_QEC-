@@ -1,0 +1,178 @@
+ANTM_16_Q2.txt
+CMG_16_Q2.txt
+DVAX_07_Q4.txt
+DVAX_09_Q2.txt
+DVAX_09_Q3.txt
+FCAU_16_Q2.txt
+ICPT_16_Q2.txt
+JWA_16_Q1.txt
+JWA_17_Q1.txt
+NEOG_16_Q4.txt
+NEOG_17_Q1.txt
+NTRI_16_Q2.txt
+PDLI_16_Q2.txt
+SREV_16_Q2.txt
+UTHR_16_Q2.txt
+VNCE_16_Q2.txt
+ANTM Q2 2016
+Date not found
+Getting Execs...
+CEO: Joe Swedish
+['Doug Simpson', 'Joe Swedish', 'John Gallina']
+Getting Analysts...
+['A.J. Rice', 'Josh Raskin', 'Dave Styblo', 'Andrew Schenker', 'Gary Taylor', 'Justin Lake', 'Kevin Fischbeck', 'Chris Rigg']
+ANTM
+0    Health Care
+Name: Sector, dtype: object
+CMG Q2 2016
+Date not found
+Getting Execs...
+CEO: Steve Ells
+['Mark Alexee', 'Steve Ells', 'Monty Moran', 'Jack Hartung', 'Curt Garner']
+Getting Analysts...
+['Brian Bittner', 'Joe Buckley', 'Jeffrey Bernstein', 'Sara Senatore', 'Nicole Miller']
+CMG
+1    Consumer Discretionary
+Name: Sector, dtype: object
+DVAX Q4 2007
+Date not found
+Getting Execs...
+CEO: Dino Dina
+['Shari Annes', 'Dino Dina', 'Deborah Smeltzer']
+Getting Analysts...
+['Bret Holley', 'Katherine Xu', 'Brian McCarthy', 'Derek Jellinek', 'Alan Young']
+DVAX
+2    empty
+Name: Sector, dtype: object
+DVAX Q2 2009
+Date not found
+Getting Execs...
+CEO: Dino Dina
+['Amy Figueroa', 'Dino Dina', 'Deborah Smeltzer']
+Getting Analysts...
+['Al Leong']
+DVAX
+3    empty
+Name: Sector, dtype: object
+DVAX Q3 2009
+Date not found
+Getting Execs...
+CEO: Dino Dina
+['Amy Figueroa', 'Dino Dina', 'Jen Lew']
+Getting Analysts...
+[]
+DVAX
+4    empty
+Name: Sector, dtype: object
+FCAU Q2 2016
+Date not found
+Getting Execs...
+CEO: Sergio Marchionne
+['Joe Veltri', 'Richard Palmer', 'Sergio Marchionne']
+Getting Analysts...
+['John Murphy', 'Adam Jonas', 'Massimo Vecchio', 'Monica Bosio', 'Martino De Ambroggi', 'Thomas Besson', 'Stephen Reitman', 'Michael Tyndall', 'Alberto Villa', 'Patrick Hummel', 'Gabriele Gambarova', 'Jose Asumendi']
+FCAU
+5    empty
+Name: Sector, dtype: object
+ICPT Q2 2016
+Date not found
+Getting Execs...
+CEO: Mark Pruzanski
+['Mark Vignola', 'Mark Pruzanski', 'Richard Kim', 'Lisa Bright', 'Sandip Kapadia', 'Rachel McMinn']
+Getting Analysts...
+['Michael Yee', 'Jonathan Eckard', 'Ian Somaiya', 'Ritu Baral', 'Joseph Schwartz', 'Alan Carr', 'Joel Beatty', 'Lisa Bayko', 'Brian Skorney', 'Jim Molloy']
+ICPT
+6    empty
+Name: Sector, dtype: object
+JWA Q1 2016
+Date not found
+Getting Execs...
+CEO: Mark Allin
+['Brian Campbell', 'Mark Allin', 'John Kritzmacher']
+Getting Analysts...
+['Daniel Moore', 'Drew Crum', 'Ian Whittaker']
+JWA
+7    empty
+Name: Sector, dtype: object
+JWA Q1 2017
+Date not found
+Getting Execs...
+CEO: Mark Allin
+['Brian Campbell', 'Mark Allin', 'John Kritzmacher']
+Getting Analysts...
+['Drew Crum', 'Daniel Moore', 'Nick Dempsey']
+JWA
+8    empty
+Name: Sector, dtype: object
+NEOG Q4 2016
+Date not found
+Getting Execs...
+CEO: Jim Herbert
+['Jim Herbert', 'Rick Calk', 'Steve Quinlan']
+Getting Analysts...
+['Bill March', 'Jason Rodgers', 'Brian Weinstein', 'Charles Haff', 'Kurt Kemper', 'Peter Coyle']
+NEOG
+9    empty
+Name: Sector, dtype: object
+NEOG Q1 2017
+Date not found
+Getting Execs...
+CEO: Jim Herbert
+['Jim Herbert', 'Rick Calk', 'Steve Quinlan']
+Getting Analysts...
+['Brian Weinstein', 'Tony Brenner', 'Paul Knight', 'David Stratton', 'Charles Haff', 'Kurt Kemper']
+NEOG
+10    empty
+Name: Sector, dtype: object
+NTRI Q2 2016
+Date not found
+Getting Execs...
+CEO: Dawn Zier
+['John Mills', 'Dawn Zier', 'Mike Monahan', 'Keira Krausz']
+Getting Analysts...
+['Alex Fuhrman', 'Linda Bolton Weiser', 'Mitch Pinheiro', 'Chris Krueger', 'Frank Camma', 'Matthew Gall']
+NTRI
+11    empty
+Name: Sector, dtype: object
+PDLI Q2 2016
+Date not found
+Getting Execs...
+CEO: John McLaughlin
+['Jennifer Williams', 'John McLaughlin', 'Peter Garcia']
+Getting Analysts...
+['Max Jacobs', 'Joseph Throem']
+PDLI
+12    empty
+Name: Sector, dtype: object
+SREV Q2 2016
+Date not found
+Getting Execs...
+CEO: Chris Carrington
+['Erik Bylin', 'Chris Carrington', 'Bob Pinkerton']
+Getting Analysts...
+['Tim Klasell', 'Matt Carletti', 'Ed Maguire']
+SREV
+13    empty
+Name: Sector, dtype: object
+UTHR Q2 2016
+Date not found
+Getting Execs...
+CEO: Martine Rothblatt
+['Martine Rothblatt']
+Getting Analysts...
+['Amir Sedontion', 'Jessica Fye', 'Unidentified Particpant', 'Liana Moussatos', 'Regina Grebla', 'Geoff Meacham', 'Chris Shibutani']
+UTHR
+14    empty
+Name: Sector, dtype: object
+VNCE Q2 2016
+Date not found
+Getting Execs...
+CEO: Brendan Hoffman
+['Jean Fontana', 'Brendan Hoffman', 'Dave Stefko']
+Getting Analysts...
+['Erinn Murphy', 'Matthew Boss', 'Noah Zatzkin', 'Mark Altschwager', 'Richard Magnusen', 'Richard Jaffe']
+VNCE
+15    empty
+Name: Sector, dtype: object
+Done Processing, Calculating NLP ...
+Done with NLP, writing out ...
